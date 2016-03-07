@@ -1,0 +1,17 @@
+{
+    "name": "carousel.liu-xiao-guo",
+    "description": "description of carousel",
+    "architecture": "all",
+    "title": "carousel",
+    "hooks": {
+        "carousel": {
+            "apparmor": "carousel.apparmor",
+            "desktop":  "carousel.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
